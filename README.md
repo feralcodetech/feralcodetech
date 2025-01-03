@@ -73,5 +73,5 @@ trikova, prevari čak i iskusne korisnike)
 funkcije, kao i provjeravanje tipova za argumente funkcija
 - **Budući planovi:** Liste, razne petlje i mogućnost definisanja vlastitih funkcija
 - **Link:** [Google Drive](
-    https://drive.google.com/file/d/1Thp7HCJC3BzIM5JELUUDBIdjHTh7LmRm/view?usp=sharing
+    https://drive.google.com/file/d/1F-5spwJQAA3-lZ-IEGoIWgVCRX91qbMh/view?usp=sharing
 )
