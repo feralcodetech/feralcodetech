@@ -21,12 +21,6 @@ je da jednog dana otvorim svoju tehnološku kompaniju.
 - **Alati:** Visual Studio, VS Code, GitHub
 - **Znanje:** Početnik u OOP, osnovno znanje o memoriji kompjutera, C++ pointers i references
 
-## Hobiji
-
-1. Razvijanje raznih programa i skripti
-2. Video igre (Advent NEON, League of Legends, 0 A.D.)
-3. Pisanje pjesama na engleskom jeziku
-
 ## Projekti
 
 ### Taster sistem za buzz-in kvizove *(završen)*
